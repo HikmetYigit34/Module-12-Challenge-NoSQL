@@ -1,6 +1,6 @@
 <h1>Module-12-Challenge-NoSQL</h1>
 
-<h2 style="color:dodgerblue">Part 1: Database and Jupyter Notebook Set Up</h2>
+<p style="color:dodgerblue">Part 1: Database and Jupyter Notebook Set Up</p>
 <ul>
 <li>Installing MangoDB and Tools</li>
 <li>Importing a given json file into MangoDB</li>
